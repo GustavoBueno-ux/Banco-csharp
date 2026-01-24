@@ -1,0 +1,14 @@
+/home/gustavo/Banco console chsarp/bin/Debug/net8.0/Banco console chsarp
+/home/gustavo/Banco console chsarp/bin/Debug/net8.0/Banco console chsarp.deps.json
+/home/gustavo/Banco console chsarp/bin/Debug/net8.0/Banco console chsarp.runtimeconfig.json
+/home/gustavo/Banco console chsarp/bin/Debug/net8.0/Banco console chsarp.dll
+/home/gustavo/Banco console chsarp/bin/Debug/net8.0/Banco console chsarp.pdb
+/home/gustavo/Banco console chsarp/obj/Debug/net8.0/Banco console chsarp.GeneratedMSBuildEditorConfig.editorconfig
+/home/gustavo/Banco console chsarp/obj/Debug/net8.0/Banco console chsarp.AssemblyInfoInputs.cache
+/home/gustavo/Banco console chsarp/obj/Debug/net8.0/Banco console chsarp.AssemblyInfo.cs
+/home/gustavo/Banco console chsarp/obj/Debug/net8.0/Banco console chsarp.csproj.CoreCompileInputs.cache
+/home/gustavo/Banco console chsarp/obj/Debug/net8.0/Banco console chsarp.dll
+/home/gustavo/Banco console chsarp/obj/Debug/net8.0/refint/Banco console chsarp.dll
+/home/gustavo/Banco console chsarp/obj/Debug/net8.0/Banco console chsarp.pdb
+/home/gustavo/Banco console chsarp/obj/Debug/net8.0/Banco console chsarp.genruntimeconfig.cache
+/home/gustavo/Banco console chsarp/obj/Debug/net8.0/ref/Banco console chsarp.dll
