@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Banco console chsarp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d93f58fd463fc17f7101898dc68528d610da2a04")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+87352ad68ddc63d1cbfa20990a6afe548b476798")]
 [assembly: System.Reflection.AssemblyProductAttribute("Banco console chsarp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Banco console chsarp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
