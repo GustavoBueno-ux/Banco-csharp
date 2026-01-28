@@ -12,3 +12,4 @@
 /home/gustavo/Banco console chsarp/obj/Debug/net8.0/Banco console chsarp.pdb
 /home/gustavo/Banco console chsarp/obj/Debug/net8.0/Banco console chsarp.genruntimeconfig.cache
 /home/gustavo/Banco console chsarp/obj/Debug/net8.0/ref/Banco console chsarp.dll
+/home/gustavo/Banco console chsarp/obj/Debug/net8.0/Banco console chsarp.sourcelink.json
