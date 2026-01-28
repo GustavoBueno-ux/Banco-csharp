@@ -5,6 +5,7 @@ public class Conta
     public int IdConta { get; private set; }
     public string NomeTitular { get; private set; }
     public decimal Saldo { get; private set; }
+    private bool Status;
 
     public Conta(int id, string nome)
     {
